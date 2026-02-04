@@ -8,7 +8,7 @@
 //     nameContainer.appendChild(span);
 // });
 
-const name = "Aaliya Azeem🌙";
+const name = "Kahkasha🌙";
 const nameContainer = document.getElementById("nameText");
 
 let charIndex = 0;
